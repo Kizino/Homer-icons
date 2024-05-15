@@ -1,3 +1,3 @@
 # Homer Icons
 
-[Homer Icons](https://github.com/NX211/homer-icons)
+[Homer Icons](https://github.com/Kizino/Homer-icons)
